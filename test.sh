@@ -1,5 +1,2 @@
-#Test commands
-#run these commands
-
-ls
+ls -l
 pwd
