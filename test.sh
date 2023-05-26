@@ -1,2 +1,2 @@
-ls -l
 pwd
+yum install nginx -y 
